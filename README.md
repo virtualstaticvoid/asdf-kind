@@ -1,6 +1,6 @@
 # asdf-kind
 
-[![Build Status](https://travis-ci.org/virtualstaticvoid/asdf-kind.svg?branch=master)](https://travis-ci.org/virtualstaticvoid/asdf-kind)
+[![Build Status](https://travis-ci.com/virtualstaticvoid/asdf-kind.svg?branch=main)](https://travis-ci.com/virtualstaticvoid/asdf-kind)
 
 [`kind`][util] plugin for [asdf](https://github.com/asdf-vm/asdf) version manager.
 
