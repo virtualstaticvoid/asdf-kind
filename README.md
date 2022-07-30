@@ -8,6 +8,7 @@
 
 ```
 asdf plugin-add kind https://github.com/virtualstaticvoid/asdf-kind.git
+asdf install kind latest
 ```
 
 ## Use
