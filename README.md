@@ -1,6 +1,6 @@
 # asdf-kind
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/virtualstaticvoid/asdf-kind/Main%20Workflow?style=flat-square)](https://github.com/virtualstaticvoid/asdf-kind/actions)
+[![Main Workflow](https://github.com/virtualstaticvoid/asdf-kind/actions/workflows/workflow.yml/badge.svg)](https://github.com/virtualstaticvoid/asdf-kind/actions/workflows/workflow.yml)
 
 [`kind`][util] plugin for [asdf](https://github.com/asdf-vm/asdf) version manager.
 
